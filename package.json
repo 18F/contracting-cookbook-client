@@ -1,6 +1,6 @@
 {
   "name": "contracting-cookbook",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "lib/cookbook.js",
   "scripts": {
@@ -22,8 +22,8 @@
     "tape-promise": "^1.0.1",
     "uglify-js": "^2.6.1"
   },
-  "repository" :{
-    "type" : "git",
-    "url" : "https://github.com/18F/contracting-cookbook-client"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/18F/contracting-cookbook-client"
   }
 }
