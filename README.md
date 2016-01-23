@@ -2,6 +2,10 @@
 
 18F has created a [Contracting Cookbook](https://pages.18f.gov/contracting-cookbook/) with "recipes" for acquisitions. This client accesses the underlying data from the Contracting Cookbook for easy use, either using the command line or in the browser.
 
+## Installation
+
+`npm install contracting-cookbook`
+
 ## Usage
 
 ``` js
