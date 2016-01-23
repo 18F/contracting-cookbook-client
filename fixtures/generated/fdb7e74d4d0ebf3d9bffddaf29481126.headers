@@ -1,0 +1,34 @@
+{
+  "statusCode": 302,
+  "headers": {
+    "server": "GitHub.com",
+    "date": "Sat, 23 Jan 2016 19:47:50 GMT",
+    "content-type": "text/html;charset=utf-8",
+    "content-length": "0",
+    "status": "302 Found",
+    "x-ratelimit-limit": "60",
+    "x-ratelimit-remaining": "56",
+    "x-ratelimit-reset": "1453582064",
+    "location": "https://api.github.com/repositories/41272919/contents/_recipes-data",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval",
+    "access-control-allow-origin": "*",
+    "content-security-policy": "default-src 'none'",
+    "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "vary": "Accept-Encoding",
+    "x-served-by": "a241e1a8264a6ace03db946c85b92db3",
+    "x-github-request-id": "49ADE3C4:1C1E9:42677B6:56A3D8E6"
+  },
+  "url": "https://api.github.com:443/repos/18F/contracting-cookbook/contents/_recipes-data/",
+  "time": 232,
+  "request": {
+    "method": "GET",
+    "headers": {
+      "User-Agent": "18F Contracting Cookbook Test",
+      "host": "api.github.com"
+    }
+  }
+}
