@@ -1,5 +1,5 @@
 {
-  "name": "contracting-cookbook-client",
+  "name": "contracting-cookbook",
   "version": "1.0.0",
   "description": "",
   "main": "lib/cookbook.js",
